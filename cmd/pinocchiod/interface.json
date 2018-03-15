@@ -1,0 +1,28 @@
+{
+  "name":"",
+  "callback":[{
+    "host":"",
+    "method":"",
+    "time":"",
+    "number_of_retry":"",
+    "payload":{
+      "receiver":"",
+      "return":"",
+      "status_code":""
+    }
+  }],
+  "payload":{
+    "receiver":"",
+    "return":"",
+    "status_code":""
+  },
+  "condition":{
+    "DDL":"",
+    "matcher":{
+      "field":"",
+      "compare":"",
+      "target":""
+    }
+  }
+
+}
