@@ -1,2 +1,3 @@
 package: github.com/DanielDanteDosSantosViana/pinocchio
-import: []
+import:
+- package: gopkg.in/mgo.v2
