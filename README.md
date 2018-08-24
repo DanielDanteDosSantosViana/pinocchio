@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alt="BetterCap" src="http://webcreationsbyjumpy.com/comics/comics_graphics/pinocchio/images/pinocchio009.gif" height="140" />
+  <img alt="BetterCap" src="https://pbs.twimg.com/media/Ca4yzw7WwAMlTqw.png" height="140" />
 </p>
 
 **pinocchio** Mock API for http integrations.
